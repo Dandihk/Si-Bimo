@@ -1,0 +1,471 @@
+fileFormatVersion: 2
+guid: efd4e195d1999914abdcacd2288405cc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: env_goa 2_3
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1742
+        width: 619
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcfcf08972859b4e96bf393b4903207
+      internalID: -1144613401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_goa 2_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1737
+        width: 548
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95418288f0c19e64a92cf26d03c3e5cf
+      internalID: -873261048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_goa 2_5
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1744
+        width: 723
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879efa11325720749b9d2f1e45970cfb
+      internalID: 1473056346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_goa 2_6
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 1739
+        width: 269
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf06de0b1ea3e24796e7fd6608f163c
+      internalID: 1456123017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_goa 2_22
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1057
+        width: 1163
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace58260df47cfb4caa1182182f85869
+      internalID: 1290645691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_goa 2_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1373
+        width: 333
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8c9a0ad17aec544b68e168df742a3a
+      internalID: 1606283439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_goa 2_25
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1344
+        width: 348
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad51c533c729de4fbfea4a5d94cd1bc
+      internalID: 2020184186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_goa 2_56
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 698
+        width: 196
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d529e800063552b4397851e070d17c15
+      internalID: -51429991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_goa 2_57
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 85
+        width: 945
+        height: 940
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fcba1c8918d444798b7dbea9bb1ea0
+      internalID: 1826452907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_goa 2_58
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 72
+        width: 1109
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c426323ec6a6440bd8dc84c6e1460c
+      internalID: -36682308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_goa 2_62
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 429
+        width: 153
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afd00cefcca68b4ca15e2909491926d
+      internalID: -393314960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_goa 2_71
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 85
+        width: 172
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db50f2ee856d39744a49dba186b3eaaa
+      internalID: 1368971709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      env_goa 2_25: 2020184186
+      env_goa 2_38: 1612369120
+      env_goa 2_62: -393314960
+      env_goa 2_13: 413139184
+      env_goa 2_1: 895469638
+      env_goa 2_22: 1290645691
+      env_goa 2_29: -1520532937
+      env_goa 2_40: -200291103
+      env_goa 2_16: -2011158968
+      env_goa 2_15: 870968653
+      env_goa 2_71: 1368971709
+      env_goa 2_34: -2119771781
+      env_goa 2_66: 1276645064
+      env_goa 2_54: -729127142
+      env_goa 2_11: 1536964037
+      env_goa 2_35: 219557354
+      env_goa 2_46: -436502744
+      env_goa 2_3: -1144613401
+      env_goa 2_9: 1235531970
+      env_goa 2_26: 382829439
+      env_goa 2_68: 1758105519
+      env_goa 2_39: -75872764
+      env_goa 2_52: 622973519
+      env_goa 2_53: -1833777874
+      env_goa 2_55: 392248936
+      env_goa 2_30: 1322691381
+      env_goa 2_4: -873261048
+      env_goa 2_65: 52996054
+      env_goa 2_24: 629287257
+      env_goa 2_44: 276496439
+      env_goa 2_0: -1852159689
+      env_goa 2_6: 1456123017
+      env_goa 2_28: -328049354
+      env_goa 2_21: -1515508247
+      env_goa 2_49: -384771684
+      env_goa 2_20: 1741010887
+      env_goa 2_48: -775256485
+      env_goa 2_59: -1709695399
+      env_goa 2_64: -2124144795
+      env_goa 2_12: 908068407
+      env_goa 2_31: -757682756
+      env_goa 2_47: 296015267
+      env_goa 2_67: -924725113
+      env_goa 2_17: 1814946289
+      env_goa 2_27: -393088145
+      env_goa 2_23: 1606283439
+      env_goa 2_37: 923034074
+      env_goa 2_56: -51429991
+      env_goa 2_57: 1826452907
+      env_goa 2_60: 365687251
+      env_goa 2_70: -1743530256
+      env_goa 2_36: 493450579
+      env_goa 2_43: 1347615032
+      env_goa 2_42: 942903084
+      env_goa 2_41: -72782650
+      env_goa 2_7: -1780128298
+      env_goa 2_58: -36682308
+      env_goa 2_51: 896666023
+      env_goa 2_32: 206762241
+      env_goa 2_61: -135243404
+      env_goa 2_33: -2108161424
+      env_goa 2_5: 1473056346
+      env_goa 2_19: 1550957174
+      env_goa 2_2: 398667578
+      env_goa 2_18: -275688488
+      env_goa 2_69: 1606027856
+      env_goa 2_50: 2096848800
+      env_goa 2_10: -726332351
+      env_goa 2_45: -1688379980
+      env_goa 2_8: 1981533469
+      env_goa 2_63: -541470496
+      env_goa 2_14: -1636547423
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
